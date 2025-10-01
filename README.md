@@ -21,7 +21,6 @@ This project analyzes NYC Airbnb listings data to uncover insights about pricing
 - **matplotlib** - Static visualizations
 - **seaborn** - Statistical data visualization
 - **plotly** - Interactive charts and maps
-- **folium** - Geographical mapping (optional)
 
 ## Analysis Includes
 
